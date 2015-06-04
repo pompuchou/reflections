@@ -1,0 +1,107 @@
+2015/6/4
+今天打算:
+    1. 完成rpsls
+    2. 完成2048
+    3. 上完第一週Practical Machine Learning的課程
+實際完成:
+    1. rpsls
+    2. git branch
+
+2015/6/3
+我發現CS100.1x非常有趣，
+今天打算:
+    1. CS100.1x
+    2. SPD1x
+    3. Think.Create.Code
+    4. Programming for Everybody (Python)
+    5. Principles of Computing (Part 1)
+    6. An Introduction to Interactive Programming in Python (Part 1)
+    7. Algorithmic Thinking (Part 1)
+    8. Practical Machine Learning
+    9. Internet History, Technology, and Security
+    10. Learning How to Learn: Powerful mental tools to help you master tough subjects
+    11. How to Use Git and GitHub
+Learning How to Learn:
+    1. Procrastination, will power
+    2. Habit = Zombie mode, save energy; the cue, the routine, the reward, the belief
+    3. Procrastination: make daily journal, set quit time, give yourself rewards, make to do
+       list before going to sleep.
+    I just finish another week, and I think making video is still difficult for me.
+    That's it for today. I should move on to next topic.
+How to Use Git and GitHub:
+    git log
+    git diff
+    git checkout
+    git clone
+    git init
+    git add
+    git status
+    git commit
+    git diff --staged
+    git reset --hard
+Think.Create.Code:
+    up to date,
+    no other upcoming deadline
+Algorithmic Thinking (Part 1):
+    upcoming deadline: June 12
+Practical Machine Learning:
+    upcoming deadline: June 8
+An Introduction to Interactive Programming in Python (Part 1):
+    Peer review mini projects, seems easy
+    upcoming deadline: June 7
+Principles of Computing (Part 1):
+    2048 coding, a little bit difficult
+    upcoming deadline: June 9
+Programming for Everybody (Python):
+    up to date, no other upcoming deadline
+    upcoming deadline: June 9, and I have completed all
+SPD1x:    
+    upcoming deadline: June 10
+CS100.1x:    
+    upcoming deadline:
+
+2015/6/2
+今天非得完成:
+    1. 完成Medicine in digital age的作業(I have to), done
+課程盤點:
+edX:
+    1. MedDigX
+    2. Code101x
+    3. CS100.1x
+    4. CS50x3 (on demand)
+    5. Klx.eHealth (on demand)
+    6. CS190.1x
+    7. 6.00.1x
+    8. Systematic Program Design - Part 1
+coursera:
+    1. Principles of Computing (Part 1)
+    2. An Introduction to Interactive Programming in Python (Part 1)
+    3. Algorithmic Thinking (Part 1)
+    4. Programming for Everybody (Python)
+    5. Practical Machine Learning
+    6. Cybersecurity (on demand)
+    7. Machine Learning (on demand)
+    8. Recommender System (on demand)
+    9. Internet History (on demand)
+    10. HowToLearn (on demand)
+udacity:
+    1. How.to.Use.Git.and.GitHub
+    2. Intro.to.Relational.Databases
+實際完成:
+    none
+    
+2015/6/1
+開始使用學習日誌，也有recall的功能。
+今天打算:
+    1. 完成learning how to learn
+    2. 完成Medicine in digital age的作業(I have to)
+    3. 再上一週的internet
+    4. 再上一些Git
+    5. 完成Merge(I have to)
+上午太忙沒有完成
+實際完成:
+    1. Principles of Computing (Part 1): 2048(merge)
+    2. Principles of Computing (Part 1): quiz 2
+    3. Algorithmic Thinking (Part 1): start
+    4. An Introduction to Interactive Programming in Python (Part 1): peer assessment
+    5. Code101x: week 5
